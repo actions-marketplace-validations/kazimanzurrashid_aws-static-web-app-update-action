@@ -24,7 +24,7 @@
     "mime-types": "^2.1.35"
   },
   "devDependencies": {
-    "@release-it/conventional-changelog": "^8.0.1",
+    "@release-it/conventional-changelog": "^10.0.6",
     "@types/js-yaml": "^4.0.9",
     "@types/mime-types": "^2.1.4",
     "@types/node": "^20.14.2",
