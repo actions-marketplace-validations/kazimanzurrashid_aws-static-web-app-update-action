@@ -21,12 +21,12 @@
     "@aws-sdk/client-s3": "^3.598.0",
     "globby": "^14.0.1",
     "js-yaml": "^4.1.0",
-    "mime-types": "^2.1.35"
+    "mime-types": "^3.0.2"
   },
   "devDependencies": {
     "@release-it/conventional-changelog": "^8.0.1",
     "@types/js-yaml": "^4.0.9",
-    "@types/mime-types": "^2.1.4",
+    "@types/mime-types": "^3.0.1",
     "@types/node": "^20.14.2",
     "@typescript-eslint/eslint-plugin": "^7.13.0",
     "@typescript-eslint/parser": "^7.13.0",
